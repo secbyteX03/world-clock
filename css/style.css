@@ -1,10 +1,11 @@
-body{background-color: #f9f7fe;
+body{background-color: hsl(255, 100%, 98%);
 font-family: sans-serif;
 }
 h1{
     text-align: center;
     font-family: sans-serif;
     font-size: 36px;
+    color: whitesmoke;
 }
 h2{
     margin: 0 0 5px;
@@ -20,7 +21,7 @@ select{
 .container{
     max-width: 600px;
     margin: 60px auto;
-    background: white;
+    background:grey;
     padding: 30px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px ;
     border-radius: 10px;
