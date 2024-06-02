@@ -44,9 +44,10 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
-  <a href = "/">All cities</a>
+  <a href="/">All cities</a>
   `;
 }
+
 updateTime();
 setInterval(updateTime, 1);
 
